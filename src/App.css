@@ -1,0 +1,32 @@
+section {
+  margin: 1rem auto;
+  width: 80%;
+  max-width: 40rem;
+  text-align: end;
+  border-radius: 12px;
+  margin-bottom: 0rem;
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+  background: #65ccb8;
+  border: 1px solid #65ccb8;
+  color: white;
+  margin: 0.25rem auto;
+  padding: 0.75rem 0.75rem;
+  border-radius: 20px;
+}
+
+.section{
+   text-align: center;
+   margin: 1rem auto;
+   width: 80%;
+   max-width: 40rem;
+   font-weight: 600;
+   color: red;
+   font-size: 20px;
+   border-radius: 12px;
+   margin-bottom: 0rem;
+   
+}

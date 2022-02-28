@@ -1,0 +1,14 @@
+.roleModel_card{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.login {
+    width: 80%;
+    max-width: 40rem;
+    margin: 1rem auto;
+    padding: 1rem 2rem;
+    text-align: center;
+  }

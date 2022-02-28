@@ -1,0 +1,24 @@
+.footer {
+    padding: 5px 40px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+  }
+  .footer .inner__footer {
+    padding: 5px 20px;
+  }
+  .inner__footer .fttr {
+    padding: 5px 5px;
+    text-align: center;
+  }
+  .inner__footer .fttr p,
+  .inner__footer .fttr a {
+    color: #0a192f;
+    text-decoration: none;
+    letter-spacing: 1px;
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 12px;
+  }
+  
+  .inner__footer .fttr a:hover {
+    color: black;
+  }

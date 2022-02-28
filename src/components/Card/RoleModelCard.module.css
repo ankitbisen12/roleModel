@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif&display=swap');
+
+.roleModel{
+    width: 200px;
+    padding:  10px;
+    margin: 2rem;
+    box-shadow: 0px 2px 12px -5px rgba(0,0,0,0.56);
+    background-color: white;
+    color: black;
+    font-family: 'Roboto Serif', sans-serif;
+    border-radius: 6px;
+}
+.roleModel h3{
+     margin: 0.5rem auto;
+}
+.roleModel img{
+    text-align: center;
+    width: 100%;
+    height: 170px;
+    border-radius: 2px;
+}
+
+.typ{
+    font-size: 80%;
+    line-height: 1.4;
+    text-align: start;
+    font-weight: 600;
+}
+.creatorName{
+     margin-top: 0.5rem;
+     font-size: 90%;
+     text-align: start;
+     font-weight: 600;
+     color:  #8F00FF;
+}
+@media (max-width: 650px){
+    .roleModel{
+        width: 300px;
+    }
+}
